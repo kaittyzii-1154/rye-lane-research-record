@@ -1,9 +1,10 @@
-# Rye Lane — Look Again
+# [Rye Lane — Look Again](https://kaittyzii-1154.github.io/rye-lane-research-record/)
 
-Caiyi Jiang · 24001826
+## [Open the Research Record website ↗](https://kaittyzii-1154.github.io/rye-lane-research-record/)
 
+Caiyi Jiang · 24001826  
 MA Interior and Spatial Design · Unit 3 · Research Record
 
-Open index.html or view the GitHub Pages site. Seven chapters cover the research process, field observation, drawing, reading, interviews, websites and reflection. Image viewers and interview excerpts are included.
+Explore the research process, field photographs, drawings, reading, interviews, websites and reflection through seven chapters.
 
-This publication folder contains only the files needed by the website. Original working files, unused exports and uncaptioned backups are excluded.
+This repository contains the files for the published website. Use the link above to view the website with its layout, image galleries and videos.
