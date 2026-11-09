@@ -51,3 +51,5 @@
 
 /* Concise text map explaining the main browsing routes. */
 .architecture-title{display:flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:56px;padding:10px 5px;border:1px solid #dce2d5;background:#fff;text-align:center;color:var(--green);font-size:11px;line-height:1.45}.text-architecture .architecture-group h4{font-size:10px}.text-architecture .architecture-group li{font-size:9px;line-height:1.6}.map-logic{font-size:14px;line-height:1.85;margin:22px 0 0}@media(max-width:560px){.architecture-title{font-size:9px}.text-architecture .architecture-group h4{font-size:8px}.text-architecture .architecture-group li{font-size:8px}}
+
+.revisit-video video{aspect-ratio:4/3;object-fit:contain}.revisit-video{margin:28px 0 42px}
