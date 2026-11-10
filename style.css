@@ -53,3 +53,6 @@
 .architecture-title{display:flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:56px;padding:10px 5px;border:1px solid #dce2d5;background:#fff;text-align:center;color:var(--green);font-size:11px;line-height:1.45}.text-architecture .architecture-group h4{font-size:10px}.text-architecture .architecture-group li{font-size:9px;line-height:1.6}.map-logic{font-size:14px;line-height:1.85;margin:22px 0 0}@media(max-width:560px){.architecture-title{font-size:9px}.text-architecture .architecture-group h4{font-size:8px}.text-architecture .architecture-group li{font-size:8px}}
 
 .revisit-video video{aspect-ratio:4/3;object-fit:contain}.revisit-video{margin:28px 0 42px}
+
+/* Model-making record */
+.model-process{margin:48px 0;scroll-margin-top:110px}.model-process h4{font-size:17px;font-weight:400;line-height:1.5;margin:32px 0 14px}.model-process figure{margin:24px 0 36px}.content .model-process img{display:block;width:100%;height:auto;max-height:620px;object-fit:contain}.model-process figcaption,.capture-note{font-size:11px;line-height:1.7;color:var(--muted,#666)}
