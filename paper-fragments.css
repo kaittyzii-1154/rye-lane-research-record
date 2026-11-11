@@ -1,0 +1,8 @@
+/* Paper study: two compact overviews, with individual pieces on request. */
+.paper-fragments{margin:52px 0;scroll-margin-top:30px;border-top:1px solid var(--line);padding-top:8px}
+.paper-fragments>p{max-width:700px;font-size:15px;line-height:1.85}
+.fragment-group{margin:32px 0 38px}
+.fragment-group h4{display:flex;align-items:baseline;justify-content:space-between;gap:15px;font-size:16px;font-weight:400;margin:0 0 12px}
+.fragment-group h4 span{font-size:10px;letter-spacing:.7px;color:var(--muted)}
+.fragment-board{margin:0 0 8px}
+.content .fragment-board img{display:block;width:100%;height:auto;max-height:none;object-fit:contain}
